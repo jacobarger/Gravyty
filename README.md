@@ -6,7 +6,7 @@ Most of my repositories are private due to them being private projects with inte
 
 I included five seperate projects in this repo, all in the google colab / jupyter format, though if you have any trouble with this format please let me know and I'm happy to quickly convert them to be pulled and executed in a local environment.
 
-Two of these items I completed as part of my machine learning course, the SVM from scratch and statistical analysis. The comments are fairly detailed and can walk you through my thought process, I had a great deal of fun writing thme and that turned out to be one of my favorite courses (along with deep learning). 
+Three of these items I completed as part of my machine learning course: the SVM from scratch, least squares regression, and statistical analysis notebooks. The comments are fairly detailed and can walk you through my thought process, I had a great deal of fun writing thme and that turned out to be one of my favorite courses (along with deep learning). 
 
 The other three, are simple items I wrote for fun or to satisfy my own curiosity. Find a brief description of each below and let me know if you have any questions!
 
