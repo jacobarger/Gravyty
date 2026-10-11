@@ -1,8 +1,3 @@
-# Code Reference Repo for Gravyty
-
-Hi Jon / Gravyty Team! 
-
-Most of my repositories are private due to them being private projects with intent to publish, part of an academic paper, or enterprise related, so I figured I would just create a reporsitory and throw a couple exercises which I have completed recently. 
 
 I included six seperate projects in this repo, all in the google colab / jupyter format, though if you have any trouble with this format please let me know and I'm happy to quickly convert them to be pulled and executed in a local environment.
 
